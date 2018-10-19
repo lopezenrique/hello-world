@@ -7,3 +7,5 @@ Cloned from remote host and remerging
 First checkin with branching
 
 Testing 'fetch' from remote host
+
+Branching off an update
